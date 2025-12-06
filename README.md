@@ -4,9 +4,9 @@
 
 ## Стек
 
-Python 3
-requests
-pytest
+- Python 3
+- requests
+- pytest
 
 ## Запуск
 
